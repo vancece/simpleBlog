@@ -1,0 +1,8 @@
+node_modules
+dist
+.git
+.idea
+.DS_Store
+.codebuddy
+temp-blog
+*.log
